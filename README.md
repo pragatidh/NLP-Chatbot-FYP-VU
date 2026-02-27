@@ -52,7 +52,7 @@ The chatbot is implemented using:
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 | Layer | Technology |
 |-----|-----------|
