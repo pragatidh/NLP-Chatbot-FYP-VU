@@ -96,7 +96,7 @@ The chatbot is implemented using:
 
 ### Step 1: Clone Repository
 
-git clone https://github.com/arslanakhtar868/NLP-Chatbot-FYP-VU.git
+git clone https://github.com/pragatidh/NLP-Chatbot-FYP-VU.git
 cd NLP-Chatbot-FYP-VU
 
 ---
