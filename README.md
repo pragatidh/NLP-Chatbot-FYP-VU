@@ -134,27 +134,6 @@ ngrok http 5000
 
 ---
 
-### 🎓 Project Details
-
-Project Type: Final Year Project (FYP)
-
-Level: BSSE
-
-University: Virtual University of Pakistan
-
----
-
-### 👨‍💻 Author
-
-Muhammad Arslan Akhtar
-Final Year Student
-arslanakhtar868@gmail.com
-
----
-
-### 👨‍🏫 Supervisor
-
-Abdullah Qammar (https://github.com/aqdesk)
 
 ---
 
@@ -168,9 +147,4 @@ Mobile application integration
 
 Online admission and fee payment
 
----
-
-### 📄 License & Usage
-
-This project is intended for academic evaluation and learning purposes only.
 
