@@ -5,7 +5,7 @@
 ![Flask](https://img.shields.io/badge/Flask-Backend-red?logo=flask)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
 ![Dialogflow](https://img.shields.io/badge/Dialogflow-NLP-green?logo=googlecloud)
-![Status](https://img.shields.io/badge/Project-FYP-success)
+
 
 ---
 
@@ -139,7 +139,7 @@ ngrok http 5000
 
 ### 🔮 Future Enhancements
 
-Multi-language support (Urdu / English)
+Multi-language support (Hindi / English)
 
 Voice-based chatbot interaction
 
