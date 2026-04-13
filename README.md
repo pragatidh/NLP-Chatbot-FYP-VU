@@ -1,5 +1,5 @@
 # 🤖 AI Based Chatbot for Educational Institutes  
-### Final Year Project (FYP)
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-Backend-red?logo=flask)
@@ -11,7 +11,7 @@
 
 ## 📌 Introduction
 
-This repository contains the source code and documentation for the **AI Based Chatbot for Schools and Training Institutes**, developed as a **Final Year Project (FYP)**.
+This repository contains the source code and documentation for the **AI Based Chatbot for Schools and Training Institutes**
 
 The system is designed to automate **front-desk and inquiry handling operations** of educational institutes by responding to student queries related to **admissions, courses, fees, and schedules** using **Artificial Intelligence (AI)** and **Natural Language Processing (NLP)**.
 
